@@ -11,6 +11,8 @@ $ sudo apt-get install fortune
 
 Usage
 
+Both files  (NewTestament-NIV & NewTestament-NIV.dat) must be in the same directory.
+
 $ fortune [OPTIONS] [/path/to/fortunes]
 
 Options
