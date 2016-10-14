@@ -1,4 +1,7 @@
 # Bible-NIV-Fortune
+
+https://github.com/optio50/Bible-NIV-Fortune/
+
 Linux Fortune Files Bible NIV New Testament
 
 Install
@@ -28,3 +31,4 @@ $ fortune /home/user/NewTestament-NIV
 For God so loved the world that he gave his one and only Son, that whoever 
 believes in him shall not perish but have eternal life.
 	--John 3:16
+
